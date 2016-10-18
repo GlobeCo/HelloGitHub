@@ -27,3 +27,13 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Files
+*.suo
+*.sdf
+*.opensdf
+*.pdb
+Debug/
+Release/
+ipch/
+ReadMe.txt
