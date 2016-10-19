@@ -8,6 +8,10 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	std::cout << "Hello GitHub!" << std::endl;
-	return 0;
+	
+    std::cout << "\nPress any key to continue . . ." << std::endl;
+    std::cin.get();
+
+    return 0;
 }
 
